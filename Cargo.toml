@@ -1,6 +1,6 @@
 [package]
 name = "am2320"
-version = "0.3.0.rc1"
+version = "0.3.0-rc.1"
 description = "Platform-agnostic driver to interface with the AM2320 I2c temperature & humidity sensor based on the `embedded-hal` traits"
 categories = ["hardware-support"]
 keywords = ["driver", "temperature", "humidity", "sensor", "embedded-hal"]
